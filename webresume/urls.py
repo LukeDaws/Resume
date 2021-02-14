@@ -31,7 +31,7 @@ urlpatterns = [
     path('project/', project_view, name='project'),
     path('contact/', contact_view, name='contact'),
     path('admin/', admin.site.urls),
-    path('pdf/', pdf_view, name='pdf')
+    path('pdfs/', pdf_view, name='pdfs')
 ]
 
 if settings.DEBUG:
