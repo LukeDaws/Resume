@@ -24,7 +24,9 @@
 
 .text{
     margin-top: 20px;
-    padding: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
     text-align: left;
     border-style: solid;
     border-color: rgba(0, 0, 0, 0.800);
@@ -34,8 +36,10 @@
 }
 
 .exp{
-margin-top: 20px;
-    padding: 500px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
     text-align: left;
     border-style: solid;
     border-color: rgba(0, 0, 0, 0.800);
